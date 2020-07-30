@@ -6,5 +6,7 @@ Git Collaboration Workshop
   - just like git init, only do this once per repository
 
 `git branch <branch_name>` : create a new branch where HEAD is
+
 `git checkout <branch_name>` : move to branch
+
 `git branch -a` : list all  branches
